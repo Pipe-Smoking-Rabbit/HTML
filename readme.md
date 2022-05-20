@@ -1,4 +1,5 @@
 Intro to HTML and CSS
+
 Task 1: create a profile in HTML
 Create a profile of a character of your choosing (or even yourself). Your HTML document will need:
 
@@ -11,7 +12,9 @@ an ordered list
 an internal link
 an external link that opens in the current tab
 an external link that opens in a new tab
-Task 2: decorate your profile with CSS
+
+Task 2: 
+decorate your profile with CSS
 Set up your .css file
 Link to your .css file in the head of your .html document
 Style your profile any way you like!
